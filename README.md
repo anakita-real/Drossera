@@ -10,3 +10,5 @@ So you probably want some features eh? well here they are!
 - Support for shaders
 - Extensibility via adding personal mods!
 
+Contact: 
+- @anakita@snowdin.town on the fediverse
